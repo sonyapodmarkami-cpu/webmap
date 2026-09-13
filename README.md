@@ -29,4 +29,4 @@ roads, trails, buildings and waterways.
 
 ## Map preview
 
-![Landscape mapping](/Users/sofia/Documents/GitHub/webmap1)
+![Landscape mapping](скрин.png)
