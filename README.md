@@ -26,3 +26,7 @@ roads, trails, buildings and waterways.
 
 - QGIS
 - OpenStreetMap
+
+## Map preview
+
+![Landscape mapping](/Users/sofia/Desktop/гисы/landscape_mapping)
